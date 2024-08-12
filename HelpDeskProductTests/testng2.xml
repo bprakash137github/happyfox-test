@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Scenario 2">
+  <test thread-count="5" name="TC1 plus TC2 plus TC3">
+    <classes>
+      <class name="Admin_Portal.AdminPortalTest2"/>
+    </classes>
+  </test> <!-- TC1 plus TC2 plus TC3 -->
+</suite> <!-- Scenario 2 -->
